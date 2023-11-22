@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user>
+        <user_id  >1</user_id>
+        <first_name>Ngô Thư</first_name>
+        <last_name>Ngô Thư</last_name>
+        <email>admin@gmail.com</email>
+        <password >$2y$10$j9OXXIYS0CG5AYuks62YMeDvuIpo2hZEN4CqfJfujt1yPMnoUq5C6</password>
+        <contact_no>9810283472</contact_no>
+        <registered_at  >2023-02-11 07:00:00</registered_at>
+        <isAdmin>1</isAdmin>
+        <user_address>newroad</user_address>
+    </user>
+    <user>
+        <user_id  >2</user_id>
+        <first_name>Ngô Thị Thanh </first_name>
+        <last_name>Thư</last_name>
+        <email>ngothu@gmail.com</email>
+        <password >$2y$10$DJOdhZy1InHTKQO6whfyJexVTZCDTlmIYGCXQiPTv7l82AdC9bWHO</password>
+        <contact_no>980098322</contact_no>
+        <registered_at  >2023-02-11 07:00:00</registered_at>
+        <isAdmin>0</isAdmin>
+        <user_address>matepani-12</user_address>
+    </user>
+    <user>
+        <user_id  >3</user_id>
+        <first_name>Bắp </first_name>
+        <last_name>nè</last_name>
+        <email>Bapne@gmail.com</email>
+        <password >$5y$10$DJOdhZy1InHTKQO6whfyJexVTZCDTlmIYGCXQiPTv7l82AdC9bWHO</password>
+        <contact_no>980098322</contact_no>
+        <registered_at  >2023-04-11 07:00:00</registered_at>
+        <isAdmin>0</isAdmin>
+        <user_address>matepani-12</user_address>
+    </user>
+</users>

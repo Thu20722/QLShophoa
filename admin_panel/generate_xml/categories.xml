@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<categories>
+    <category>
+        <category_id>1</category_id>
+        <category_name>Hoa Hồng</category_name>
+    </category>
+    <category>
+        <category_id>2</category_id>
+        <category_name>Hoa Tulip</category_name>
+    </category>
+    <category>
+        <category_id>3</category_id>
+        <category_name>Hoa Cẩm Tú Cầu</category_name>
+    </category>
+    <category>
+        <category_id>4</category_id>
+        <category_name>Hoa Sen</category_name>
+    </category>
+    <category>
+        <category_id>5</category_id>
+        <category_name>Hoa Mẫu Đơn</category_name>
+    </category>
+    <category>
+        <category_id>6</category_id>
+        <category_name>Hoa Đào</category_name>
+    </category>
+    <category>
+        <category_id>7</category_id>
+        <category_name>Hoa Lan</category_name>
+    </category>
+    <category>
+        <category_id>8</category_id>
+        <category_name>Hoa Đồng Tiền</category_name>
+    </category>
+    <category>
+        <category_id>9</category_id>
+        <category_name>Hoa Đào</category_name>
+    </category>
+</categories>

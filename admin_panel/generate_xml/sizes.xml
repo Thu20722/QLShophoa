@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sizes>
+    <size>
+        <size_id >1</size_id>
+        <size_name>Bó Nhỏ</size_name>
+    </size>
+    <size>
+        <size_id >2</size_id>
+        <size_name>Bó Vừa</size_name>
+    </size>
+    <size>
+        <size_id >3</size_id>
+        <size_name>Bó Lớn</size_name>
+    </size>
+    <size>
+        <size_id >4</size_id>
+        <size_name>Free</size_name>
+    </size>
+</sizes>

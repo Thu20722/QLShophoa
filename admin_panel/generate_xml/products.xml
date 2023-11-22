@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+        <product_id>1</product_id>
+        <product_name>Hoa Hồng Đỏ</product_name>
+        <product_desc>Hoa hồng có xuất xứ từ Ba Tư và là loại cho tượng trưng cho tình yêu vĩnh hằng, mối tình cảm cao quý và sâu đậm.</product_desc>
+        <product_image>./uploads/hoahongdo.jpg</product_image>
+        <price>500</price>
+        <category_id>1</category_id>
+        <uploaded_date>2023-10-28 07:00:00</uploaded_date>
+    </product>
+    <product>
+        <product_id>2</product_id>
+        <product_name>Hoa Hồng Xanh</product_name>
+        <product_desc>Hoa hồng màu xanh thuộc chi Rosa (Gia đình: Rosacea), có màu sắc từ xanh đến tím thay vì màu đỏ</product_desc>
+        <product_image>./uploads/hoahongxanh.jpg</product_image>
+        <price>1000</price>
+        <category_id>1</category_id>
+        <uploaded_date>2023-11-04 07:00:00</uploaded_date>
+    </product>
+    <product>
+        <product_id>3</product_id>
+        <product_name>Hoa Tulip Hồng</product_name>
+        <product_desc>Hoa tulip hồng có những ý nghĩa tương tự hoa tulip đỏ, đều đại diện cho tình yêu, niềm đam mê và sự quyến rũ. Đặc biệt hơn là biểu tượng cho hạnh phúc hoàn hảo.</product_desc>
+        <product_image>./uploads/hoatuliphong.jpg</product_image>
+        <price>890</price>
+        <category_id>2</category_id>
+        <uploaded_date>2023-04-04 07:00:00</uploaded_date>
+    </product>
+    <product>
+        <product_id>4</product_id>
+        <product_name>Hoa Tulip Trắng</product_name>
+        <product_desc>Tulip trắng là loại hoa có nhiều ý nghĩa tốt đẹp, nó đại diện cho tình yêu thuần khiết, niềm đam mê, sự bình yên, chiến thắng và sự tha thứ.</product_desc>
+        <product_image>./uploads/hoatuliptrang.jpg</product_image>
+        <price>700</price>
+        <category_id>2</category_id>
+        <uploaded_date>2023-11-04 07:00:00</uploaded_date>
+    </product>
+    <product>
+        <product_id>5</product_id>
+        <product_name>Hoa cẩm tú cầu</product_name>
+        <product_desc>Hoa cẩm tú cầu mang vẻ đẹp mong nhanh, tinh tế như hình ảnh người thiếu nữ. Khi nhắc đến hoa cẩm tú cầu, ta thường nghĩ ra loài hoa này tượng trưng cho sự kiêu sa, lạnh lùng.</product_desc>
+        <product_image>./uploads/hoacamtucau.jpg</product_image>
+        <price>1850</price>
+        <category_id>3</category_id>
+        <uploaded_date>2023-11-10 07:00:00</uploaded_date>
+    </product>
+    <product>
+        <product_id>6</product_id>
+        <product_name>Hoa Sen Hồng</product_name>
+        <product_desc>Hoa sen hồng : tượng trưng cho lòng từ bi và tình yêu cao thượng.</product_desc>
+        <product_image>./uploads/hoasen.jpg</product_image>
+        <price>1250</price>
+        <category_id>4</category_id>
+        <uploaded_date>2023-11-11 07:00:00</uploaded_date>
+    </product>
+    <product>
+        <product_id>7</product_id>
+        <product_name>Hoa Mẫu Đơn</product_name>
+        <product_desc>Hoa mẫu đơn được biết đến như một loài hoa tinh tế, sang trọng.</product_desc>
+        <product_image>./uploads/hoamaudon.jpg</product_image>
+        <price>1500</price>
+        <category_id>5</category_id>
+        <uploaded_date>2023-11-11 07:00:00</uploaded_date>
+    </product>
+    <product>
+        <product_id>8</product_id>
+        <product_name>Hoa Hồng Trắng</product_name>
+        <product_desc>Hồng trắng thể hiện cho tình yêu thiêng liêng, không vụ lợi và vĩnh cửu. Chúng tượng trưng cho những gì trong sáng, thuần khiết nhất của tình cảm lứa đôi.</product_desc>
+        <product_image>./uploads/hoahongtranghong.jpg</product_image>
+        <price>1000</price>
+        <category_id>1</category_id>
+        <uploaded_date>2023-11-04 07:00:00</uploaded_date>
+    </product>
+</products>

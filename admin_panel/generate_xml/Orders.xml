@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Orders>
+    <orders>
+        <order_id >1</order_id >
+        <user_id >2</user_id>
+        <delivered_to>Thư</delivered_to>
+        <phone_no>3336663022</phone_no>
+        <deliver_address>92 Đinh Tiên Hoàng</deliver_address>
+        <pay_method>Tiền Mặt</pay_method>
+        <order_status>0</order_status>
+    </orders>
+    <orders>
+        <order_id >2</order_id >
+        <user_id >3</user_id>
+        <delivered_to>Bắp</delivered_to>
+        <phone_no>5555511111</phone_no>
+        <deliver_address>7 Thái Thị Bôi</deliver_address>
+        <pay_method>Chuyển Khoản</pay_method>
+        <order_status>1</order_status>
+    </orders>
+    <orders>
+        <order_id >3</order_id >
+        <user_id >2</user_id>
+        <delivered_to>Thanh Thư</delivered_to>
+        <phone_no>1234567891</phone_no>
+        <deliver_address>3 Thanh Thủy</deliver_address>
+        <pay_method>Chuyển Khoản</pay_method>
+        <order_status>0</order_status>
+    </orders>
+</Orders>
